@@ -1,4 +1,4 @@
-test_segments_along_rays_bug:
-    * ray_d.pth: single ray direction
-    * ray_o.pth: single ray origin
-    * repro_bug.pth: a serialized dictionary of ijks, vox_size and vox_origin tensors for constructing a grid
+- test_segments_along_rays_bug:
+    - ray_d.pth: single ray direction
+    - ray_o.pth: single ray origin
+    - repro_bug.pth: a serialized dictionary of ijks, vox_size and vox_origin tensors for constructing a grid
