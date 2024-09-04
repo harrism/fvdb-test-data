@@ -1,0 +1,3 @@
+- test_jagged_tensor_one_element:
+    - ray_dir.pt: 128**2 ray directions
+    - ray_orig.pt: 128**2 ray origins
